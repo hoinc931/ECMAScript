@@ -1,0 +1,178 @@
+{
+  "products": [
+    {
+      "name": "Giày Thể Thao XSPORT Adi.das 350 V2 Static Full Phản Quang REP",
+      "price": "550000",
+      "quantity": "82644",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_7105.jpg?alt=media&token=4f75368f-312e-4525-ab33-19fbd5826e71",
+      "id": 1
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Adi.das Yeezy 700 V2 Static REP",
+      "price": "550000",
+      "quantity": "57587",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_5961.jpg?alt=media&token=9aec27d1-3b82-4a0e-81b5-f6b056e7ab93",
+      "id": 2
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Adi.das Alpha.bounce beyond Rep",
+      "price": "600000",
+      "quantity": "51117",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_4978.jpg?alt=media&token=d7e82f33-5015-45c7-8b39-135d2364537b",
+      "id": 3
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Adi.das 918 SF",
+      "price": "400000",
+      "quantity": "56",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2253853427739_5dad0da574c3206e7f5b490515ce98ef-scaled.jpg?alt=media&token=e37f9a50-c3a9-40ba-b129-7838e87375cb",
+      "id": 4
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Nike Air Force 1 Full Trắng SF",
+      "price": "400000",
+      "quantity": "7373",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_5246-300x300.jpg?alt=media&token=ee222bed-7081-4df5-be27-cf3dbc650131",
+      "id": 5
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Adi.das A918",
+      "price": "400000",
+      "quantity": "123",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2123216593673_de62a65430d19a39f86117dea94bc05d.jpg?alt=media&token=ede1aee1-9e31-40e9-ac7d-72e52d000ba7",
+      "id": 7
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Ni.ke Air Force 1 Full Trắng SF",
+      "categoryId": "1",
+      "price": "400000",
+      "quantity": "12445",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_5045.jpg?alt=media&token=dfa38a28-372b-4e6b-af32-7dbe51829aec",
+      "id": 8
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Ni.ke air force 1 Rep 1:1",
+      "categoryId": "1",
+      "price": "600000",
+      "quantity": "532",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2344032770381_8c3b61cdc07028b8d56811de4b77e386-scaled.jpg?alt=media&token=a27c2a1f-b84a-41dc-b5b5-514278dad48a",
+      "id": 9
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Ni.ke Air Max 97",
+      "categoryId": "1",
+      "price": "550000",
+      "quantity": "242",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2FMG_4973.jpg?alt=media&token=ea6405cc-d07f-489c-b538-8196c50b6a05",
+      "id": 10
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Ni.ke air shadow F1",
+      "categoryId": "1",
+      "price": "320000",
+      "quantity": "432",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2123356860428_88f77e8ac68bc40c001ca095ad724c5f.jpg?alt=media&token=18121d32-fd6b-47ad-81c5-d697b5d8a57e",
+      "id": 11
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Van.s Old Skool",
+      "categoryId": "3",
+      "price": "99000",
+      "quantity": "2322",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fxoa-phong-166.jpg?alt=media&token=137d7c1d-fdbc-4fdd-8927-881fb4180a46",
+      "id": 12
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Van.s Classic Mickey",
+      "categoryId": "3",
+      "price": "250000",
+      "quantity": "23",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2111751848047_94112aec67c028fe1c1549c9cc88675d.jpg?alt=media&token=84d72498-3576-45cb-b52b-8a806558b759",
+      "id": 13
+    },
+    {
+      "name": "Giày Thể Thao XSPORT Van.s Old Skool Cá Mập",
+      "categoryId": "3",
+      "price": "250000",
+      "quantity": "246",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fxoa-phong-154-1.jpg?alt=media&token=67ebd776-9b59-4ae6-a9a2-43d0232bc3d8",
+      "id": 14
+    },
+    {
+      "name": "ascfac",
+      "categoryId": "1",
+      "price": "3123123",
+      "quantity": "123",
+      "detail": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-ecma.appspot.com/o/images%2Fz2363995882823_f573cac05d02cf39010f0ccd7b3ea78e.jpg?alt=media&token=65a0e8b0-4e29-4d87-8999-872ca3d0621b",
+      "id": 15
+    }
+  ],
+  "categories": [
+    {
+      "name": "Giày Nike",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Giày Adidas"
+    },
+    {
+      "id": 3,
+      "name": "Giày Vans"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Trần Hữu Thiện",
+      "customer_address": "Hà Nội",
+      "customer_email": "thienth@fpt.edu.vn",
+      "customer_phone_number": "0987654321",
+      "created_date": "",
+      "status": 1,
+      "detail": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "unit_price": 6490000
+        }
+      ]
+    }
+  ],
+  "supports": [
+    {
+      "id": 1,
+      "name": "tu dep trai",
+      "phone": "0961003530",
+      "email": "hoincph10298@fpt.edu.vn",
+      "content": "jasbcjkascjascnj"
+    },
+    {
+      "id": 2,
+      "name": "tu dep trai",
+      "phone": "0961003530",
+      "email": "hoincph10298@fpt.edu.vn",
+      "content": "jasbcjkascjascnj"
+    }
+  ]
+}
